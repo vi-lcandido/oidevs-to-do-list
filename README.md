@@ -15,7 +15,7 @@
 
 ## :computer: Sobre o projeto
 
-- O projeto é uma lista de tarefas que pode ser utilizada por qualquer um que acessá-la.
+- O projeto é uma lista de tarefas que pode ser utilizada por qualquer um que acessá-la - https://vi-lcandido.github.io/oidevs-to-do-list/
 - O principal objetivo do projeto é uma lista de tarefas funcional.
 
 ---
