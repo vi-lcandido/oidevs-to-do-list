@@ -1,47 +1,47 @@
 <h1 align="center">🗹 ToDo List</h1>
 
-<p align="center">Projeto final do módulo 2 do Curso de Front-end OiDevs. </p>
+<p align="center">Final Project of Second Period from OiDevs Program </p>
 
 <p align="center">
-  <a href="#computer-sobre-o-projeto">Sobre o Projeto</a> •
+  <a href="#computer-sobre-o-projeto">About The Project</a> •
   <a href="#white_check_mark-features">Features</a> •
-  <a href="#books-como-executar">Como executar</a> •
-  <a href="#hammer-tecnologias">Tecnologias</a> •
-  <a href="#hammer-utilitários">Utilitários</a> •
-   <a href="#rocket-devs">Devs</a> •
+  <a href="#books-como-executar"> How to run</a> •
+  <a href="#hammer-tecnologias">Technologiess</a> •
+  <a href="#hammer-utilitários">Utilities</a> •
+   <a href="#rocket-devs">Developers</a> •
 </p>
 
 ---
 
-## :computer: Sobre o projeto
+## :computer: About The Project
 
-- O projeto é uma lista de tarefas que pode ser utilizada por qualquer um que acessá-la - https://vi-lcandido.github.io/oidevs-to-do-list/
-- O principal objetivo do projeto é uma lista de tarefas funcional.
+- The project is a to-do list that can be used by anyone who accesses it. - https://vi-lcandido.github.io/oidevs-to-do-list/
+- The main goal of the project is a useful to-do list.
 
 ---
 
 ## :white_check_mark: Features
-- [x] Uma lista de tarefas vazia
-- [x] Adicionar tarefas na tela
-- [x] Edição de tarefas pelo id
-- [x] Exclusão de tarefas pelo id
+- [x] An empty to-do list
+- [x] Add task on screen
+- [x] Edit the tasks by id
+- [x] Delete the tasks by id
 
 ---
 
-## :books: Como executar
+## :books: How to run
 
-Para visualizar siga os passos abaixo: 
-- Você deve ter o Git Bash instalado em seu computador (clique <a href="https://git-scm.com/download/win">aqui</a>);
-- Crie uma pasta em seu computador;
-- Abra o Git Bash dentro deste diretório;
-- Utilize o comando "git clone https://github.com/vi-lcandido/oidevs-to-do-list.git".
-- Comece a navegação pela página index.html
+To open the project, follow the steps bellow:
+- You must have Git Bash installed in your computer (click <a href="https://git-scm.com/download/win">here</a>);
+- Create a folder in your computer;
+- Open Git Bash inside this folder;
+- Type this command "git clone https://github.com/vi-lcandido/oidevs-to-do-list.git".
+- Start the navigation from index.html
 
 ---
 
-## :hammer: Tecnologias
+## :hammer: Technologies
 
-Ferramentas utilizadas no desenvolvimento do projeto:
+Tools used to develop this project:
 - JavaScript
 - HTML
 - CSS
@@ -49,15 +49,15 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 
 ---
 
-## :hammer: Utilitários
+## :hammer: Utilities
 
-- Layout do figma: <a href="https://www.figma.com/file/xJayderpYiZp3eaPx8Xoxs/To-do-OiDevs?node-id=0%3A1&t=bMeWULgXxLTagCH5-0" >[Figma]</a> 
+-  Figma layout: <a href="https://www.figma.com/file/xJayderpYiZp3eaPx8Xoxs/To-do-OiDevs?node-id=0%3A1&t=bMeWULgXxLTagCH5-0" >[Figma]</a> 
 
-Obs: O figma desse projeto foi criado pelas próprias desenvolvedoras servindo de base para o desenvolvimento.
+Obs: The Figma project was created by the developers themselves, serving as a basis for the development.
 
 ---
 
-## :rocket: Devs
+## :rocket: Developers
   <p>Amanda Guerra:  <a href="https://github.com/amaendoas">GitHub</a></p>
   <p>Carol Ferraz: <a href="https://github.com/carolferraz">GitHub</b></sub></a><p> 
    <p>Ivina Albuquerque: <a href="https://github.com/Ivina-als">GitHub</b></sub></a><p> 
